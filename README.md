@@ -1,1 +1,1 @@
-day3
+Day 3 project!
